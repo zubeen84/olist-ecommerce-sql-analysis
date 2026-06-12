@@ -20,6 +20,7 @@ This project analyses 100,000 real orders from Olist, a Brazilian e-commerce mar
 | Customer Behaviour | What does the average customer spend? | The average transaction value is BRL 161, ranging from BRL 1,098 for computers to BRL 25 for home comfort items |
 |  | Which states generate the most revenue? | São Paulo generates BRL 5.2M in revenue — roughly three times more than Rio de Janeiro, the second largest state |
 
+![Monthly Revenue Trend](images/monthly_revenue_trend.png)
 ---
 
 ## Business Recommendations
@@ -30,6 +31,9 @@ This project analyses 100,000 real orders from Olist, a Brazilian e-commerce mar
 - Capitalise on the Black Friday opportunity identified in November 2017 by ensuring sellers are stocked and logistics are prepared ahead of time each year
 - Low-performing categories including CDs/DVDs, Flowers and Diapers should be reviewed or discontinued where revenue is low and structural decline is likely to continue
 
+![Top 10 Highest Performing Categories](images/top_10_highest_performing_categories.png)
+
+![Lowest Performing Categories](images/lowest_performing_categories.png)
 **Delivery**
 - Recording delivery dates should be made mandatory for all sellers. 2,965 missing delivery records currently make it impossible to accurately measure performance
 - Delivery estimates should be updated to reflect the actual 11.87 day early delivery average, as more accurate estimates would improve customer trust
@@ -42,6 +46,7 @@ This project analyses 100,000 real orders from Olist, a Brazilian e-commerce mar
 - Olist should reduce its overdependence on São Paulo by running targeted campaigns in Minas Gerais, Rio Grande do Sul and Paraná
 - Logistics partnerships in northern states should be explored to reduce delivery barriers and make the platform more accessible
 
+![Top 10 States by Revenue](images/top10_states_by_revenue.png)
 ---
 
 ## Dataset
