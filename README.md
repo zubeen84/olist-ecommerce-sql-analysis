@@ -77,3 +77,13 @@ Python · DuckDB · pandas · matplotlib · seaborn
 1. Download the dataset from the Kaggle link above
 2. Place all CSV files inside a folder called `data` in the project directory
 3. Open `olist_data_exploration.ipynb` and run all cells
+
+---
+
+## Author
+
+**Zubeen Khalid**
+MSc Applied Data Science Distinction - Anglia Ruskin University
+
+[LinkedIn](https://www.linkedin.com/in/zubeenkhalid) · 
+[GitHub](https://github.com/zubeen84)
