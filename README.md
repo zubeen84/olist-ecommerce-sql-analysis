@@ -11,14 +11,14 @@ This project analyses 100,000 real orders from Olist, a Brazilian e-commerce mar
 |---|---|---|
 | Revenue | Which product categories generate the most revenue? | Health and Beauty is the top category with BRL 1.26M in revenue and a strong average review score of 4.14 |
 |  | Is monthly revenue growing? | Revenue grew from BRL 120,000 in January 2017 to BRL 1,000,000 by early 2018 |
-| Revenue | Which month performed best? | November 2017 produced BRL 1,010,271 — consistent with Black Friday demand |
+|  | Which month performed best? | November 2017 produced BRL 1,010,271, consistent with Black Friday demand |
 | Delivery | What percentage of orders arrive on time? | 89.15% of orders are delivered on time, though 2,965 missing delivery records mean the true rate may be lower |
-| Delivery | How accurate are delivery estimates? | Orders arrive on average 11.87 days earlier than the estimated date, suggesting estimates are consistently conservative |
-| Sellers | Where are top sellers based? | 9 out of 10 top revenue-generating sellers are based in São Paulo, revealing significant geographic concentration risk |
-| Sellers | Which sellers are underperforming? | 6 sellers score below 3.0 in average review score; three of them have over 100 orders each |
-| Sellers | What is causing poor reviews? | For 4 of the 6 underperforming sellers, on-time delivery rates between 64% and 75% identify logistics as the primary issue, not product quality |
+|  | How accurate are delivery estimates? | Orders arrive on average 11.87 days earlier than the estimated date, suggesting estimates are consistently conservative |
+|Sellers | Where are top sellers based? | 9 out of 10 top revenue-generating sellers are based in São Paulo, revealing significant geographic concentration risk |
+|  | Which sellers are underperforming? | 6 sellers score below 3.0 in average review score; three of them have over 100 orders each |
+| | What is causing poor reviews? | For 4 of the 6 underperforming sellers, on-time delivery rates between 64% and 75% identify logistics as the primary issue, not product quality |
 | Customer Behaviour | What does the average customer spend? | The average transaction value is BRL 161, ranging from BRL 1,098 for computers to BRL 25 for home comfort items |
-| Customer Behaviour | Which states generate the most revenue? | São Paulo generates BRL 5.2M in revenue — roughly three times more than Rio de Janeiro, the second largest state |
+|  | Which states generate the most revenue? | São Paulo generates BRL 5.2M in revenue — roughly three times more than Rio de Janeiro, the second largest state |
 
 ---
 
